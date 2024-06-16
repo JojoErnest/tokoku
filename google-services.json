@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946611524887",
+    "project_id": "tokokuproject-eb5a2",
+    "storage_bucket": "tokokuproject-eb5a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946611524887:android:99e170c1ce9b9682241352",
+        "android_client_info": {
+          "package_name": "com.tokoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946611524887-437o6k33rd1n3oes0fnj5u78s09f05cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvr1Hxd1Y9irnaCkwia7FT-_5q8j0WxKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946611524887-437o6k33rd1n3oes0fnj5u78s09f05cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
